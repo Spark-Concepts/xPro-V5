@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# Overview
 
-You can use the [editor on GitHub](https://github.com/Spark-Concepts/xPro-V5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### [Hardware description](Hardware_Description)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Quick start
 
-### Markdown
+### [Basic hookup](Basic-hookup)
+ - [ ] [Motors](Motors)
+ - [ ] [Limit switches](Limit_switches)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Wifi connection](Wifi-connection)
+ 
+### [Changing settings](Changing-settings)
 
-```markdown
-Syntax highlighted code block
+### [Suggested settings](Suggested-settings)
+ - [ ] [Workbee screw](Workbee_screw)
+ - [ ] [Openbuilds screw](Openbuilds_screw)
+ - [ ] [Bulkman screw](Bulkman_screw)
+ - [ ] [Belt driven machines](Belt_driven_machines)
 
-# Header 1
-## Header 2
-### Header 3
+### [Checking firmware and upgrading](Checking_firmware_and_upgrading)	
 
-- Bulleted
-- List
+# Getting to know your CNC xPRO V5
+	
+### [Connecting to your CNC xPRO V5](Connecting_to_your_CNC_xPRO_V5)
+ - [ ] [Wifi guide](Wifi_guide)
+ - [ ] [USB guide](USB_guide)
 
-1. Numbered
-2. List
+### [Hooking up your CNC xPRO V5](Hooking_up_your_CNC_xPRO_V5)	
+[Front Panel](Front_Panel)
+ - [ ] [Power](Power) 
+ - [ ] [Cool](Cool)
+ - [ ] [VFD-RS485](VFD-RS485)
+ - [ ] [Toolhead](Toolhead)
+ - [ ] [Relay](Relay)
+ - [ ] [Door](Door)
+ - [ ] [RS485A/B switch](RS485A/B_switch)
+ - [ ] [Program button](Program_button)
+ - [ ] [USB](USB)
 
-**Bold** and _Italic_ and `Code` text
+[Side Panel](Side_Panel)
+ - [ ] [Power Switch](Power_Switch) 
+ - [ ] [Reset](Reset)
+ - [ ] [SD Card](SD_Card)
+ - [ ] [Motor fault indicators](Motor_fault_indicators)
+ - [ ] [Status indicators](Status_indicators)
+ - [ ] [Probe input](Probe_input)
+ - [ ] [Macro1 & Macro2](Macro1_&_Macro2)
+ - [ ] [TMC diag_0 output](TMC_diag_0_output)
 
-[Link](url) and ![Image](src)
-```
+[Rear Panel](Rear_Panel)
+ - [ ] [Motor connectors](Motor_connectors) 
+ - [ ] [Limit connectors](Limit_connectors)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Spark-Concepts/xPro-V5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Inside jumpers](Inside_jumpers)
+ - [ ] [Mist output voltage](Mist_output_voltage)
+ - [ ] [Relay signal](Relay_signal) 
+ - [ ] [GPIO Logic](GPIO_Logic)
+ - [ ] [Limit Switch Logic](Limit_Switch_Logic)
