@@ -1,6 +1,6 @@
 Only use the xPV5xyyz.bin file found in the flash_download_tool folder (https://github.com/Spark-Concepts/xPro-V5/tree/main/Firmware/Old%20Firmware/flash_download_tool)
 Do not use any other .bin found in the firmawre folder with this tool - as xPV5xyyz.bin contains the nessisary bootloaders for proper configurations (factory default). 
 
-Once you have used the flash tool - you will need to connect to the xProV5 via wifi and upload the index.html.gz file
+Once you have used the flash tool - you will need to connect to the xProV5 via wifi and upload the index.html.gz file (https://github.com/Spark-Concepts/xPro-V5/blob/main/Firmware/index.html.gz)
 
 In addition, via Wifi only, you may want to upload to the latest firmware for your actual configuration (found under the xPro-V5/Firmware folder)
