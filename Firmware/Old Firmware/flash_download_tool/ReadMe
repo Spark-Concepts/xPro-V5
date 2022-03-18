@@ -3,4 +3,4 @@ Do not use any other .bin found in the firmawre folder with this tool - as xPV5x
 
 Once you have used the flash tool - you will need to connect to the xProV5 via wifi and upload the index.html.gz file (https://github.com/Spark-Concepts/xPro-V5/blob/main/Firmware/index.html.gz)
 
-In addition, via Wifi only, you may want to upload to the latest firmware for your actual configuration (found under the xPro-V5/Firmware folder)
+In addition, via Wifi only, you may want to upload to the latest firmware for your actual configuration (found here: https://github.com/Spark-Concepts/xPro-V5/tree/main/Firmware)
