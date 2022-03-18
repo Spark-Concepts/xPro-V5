@@ -1,0 +1,3 @@
+Do not use any other .bin found in the firmawre folder with this tool!
+
+Only use the xPV5xyyz.bin file found in this flash_download_tool folder with the flash tool as it contains the nessisary bootloaders for proper configurations (factory default). Once you have used the flash tool - you will need to connect to the xProV5 via wifi and upload the index.html.gz file; in addition you may upload to the latest firmware (found under the xPro-V5/Firmware folder via wifi) 
