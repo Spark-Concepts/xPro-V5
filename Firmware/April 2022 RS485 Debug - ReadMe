@@ -1,0 +1,5 @@
+The RS485 Debug bin file is for debugging VFD RS-485 communication issues (Requires USB connection and CNCJS installed on computer):
+- Note: requires a NO (normally open) e-stop (unplug estops after debug firmware is loaded)
+
+- Once connected to the X-Pro using CNCJS will echo commands sent to and from the VFD via RS-485
+- The terminal window will display messages from the X-Pro as Tx:....... and messages recieved from the VFD as Rx:........
