@@ -1,1 +1,3 @@
-
+- Minor bug fixes
+- TMC5160 Tuning
+- Fixes bug requiring double reset for Z motor
