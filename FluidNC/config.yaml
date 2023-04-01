@@ -1,3 +1,5 @@
+# For more information please see: http://wiki.fluidnc.com/en/config/overview
+
 board: XPro V5
 name: xPro V5 Ondrej 
 stepping:
@@ -191,7 +193,7 @@ coolant:
   mist_pin: gpio.21
   delay_ms: 0
 
-# For spindle configuration remove the "#" preceding your spindle type BELOW...
+# For spindle configuration remove the "#" preceding your spindle type BELOW... 
 
 # pwm:
 #  pwm_hz: 5000
