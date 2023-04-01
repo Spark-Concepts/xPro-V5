@@ -191,14 +191,40 @@ coolant:
   mist_pin: gpio.21
   delay_ms: 0
 
-pwm:
-  pwm_hz: 5000
-  direction_pin: NO_PIN
-  output_pin: gpio.25
-  enable_pin: gpio.4
-  disable_with_s0: false
-  s0_with_disable: true
-  spinup_ms: 0
-  spindown_ms: 0
-  tool_num: 0
-  speed_map: 0=0.000% 100=100.000%
+# For spindle configuration remove the "#" preceding your spindle type BELOW...
+
+# pwm:
+#  pwm_hz: 5000
+#  direction_pin: NO_PIN
+#  output_pin: gpio.25
+#  enable_pin: gpio.4
+#  disable_with_s0: false
+#  s0_with_disable: true
+#  spinup_ms: 0
+#  spindown_ms: 0
+#  tool_num: 0
+#  speed_map: 0=0.000% 100=100.000%
+ 
+ # Huanyang:
+ # uart:
+ #   txd_pin: gpio.25
+ #   rxd_pin: gpio.4
+ #   rts_pin: NO_PIN
+ #   baud: 9600
+ #   mode: 8N1
+ # modbus_id: 1
+ # tool_num: 0
+ # speed_map: 0=0% 0=25% 6000=25% 24000=100%
+ # off_on_alarm: false
+  
+  # YL620:
+  # uart:
+  #  txd_pin: gpio.25
+  #  rxd_pin: gpio.4
+  #  rts_pin: NO_PIN
+  #  baud: 9600
+  #  mode: 8N1
+  # modbus_id: 1
+  # tool_num: 0
+  # speed_map: 0=0% 0=25% 6000=25% 24000=100%
+  # off_on_alarm: false
