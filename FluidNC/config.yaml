@@ -209,8 +209,8 @@ coolant:
  
  # Huanyang:
  # uart:
- #   txd_pin: gpio.25
- #   rxd_pin: gpio.4
+ #   txd_pin: gpio.4
+ #   rxd_pin: gpio.25
  #   rts_pin: NO_PIN
  #   baud: 9600
  #   mode: 8N1
@@ -221,8 +221,8 @@ coolant:
   
   # YL620:
   # uart:
-  #  txd_pin: gpio.25
-  #  rxd_pin: gpio.4
+  #  txd_pin: gpio.4
+  #  rxd_pin: gpio.25
   #  rts_pin: NO_PIN
   #  baud: 9600
   #  mode: 8N1
